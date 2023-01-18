@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there!!! 👋
 My Name is Murugharaj Malagi and I'm a Mechanical Engineer
+🌱 I’m currently learning Python
 <!--
 **MMurugharaj/MMurugharaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
